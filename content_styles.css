@@ -1,0 +1,8 @@
+
+.vlgr_hidden {
+    background-color: #1e1e1e;
+    color: rgba(0, 0, 0, .1);
+}
+.vlgr_hidden::selection {
+    opacity: 0;
+}
